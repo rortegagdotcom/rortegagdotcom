@@ -6,7 +6,7 @@ Apasionado de la informática desde pequeño y en constante aprendizaje de las �
 🌐 Sitio web: https://rortegag.com
 
 ## 👨 Redes sociales:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raul-ortega-gallego) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@r_ortegag) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raul-ortega-gallego)
 
 # 💻 Lenguajes de programación y herramientas:
 
