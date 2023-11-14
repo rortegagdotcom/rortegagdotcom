@@ -1,8 +1,6 @@
 # 💫 Sobre mí:
 Apasionado de la informática desde pequeño y en constante aprendizaje de las últimas tecnologías de programación.
 
-🌱 Estoy aprendiendo React.js, Vue.js, Node.js y Typescript.
-
 🌐 Sitio web: https://rortegag.com
 
 ## 👨 Redes sociales:
