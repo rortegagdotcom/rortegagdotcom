@@ -57,7 +57,7 @@ Apasionado de la informática desde pequeño y en constante aprendizaje de las �
 </div>
 
 # 📊 Estadísticas de GitHub:
-![](https://github-readme-streak-stats.herokuapp.com/?user=rortegagdotcom&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rortegagdotcom&theme=dark&hide_border=true)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rortegagdotcom&icon=5&color=12)](https://visitcount.itsvg.in)
